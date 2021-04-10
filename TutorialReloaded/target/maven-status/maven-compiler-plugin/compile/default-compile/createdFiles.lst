@@ -1,0 +1,11 @@
+de\monaco07\tutorialreloaded\Main.class
+de\monaco07\tutorialreloaded\listeners\QuitListener.class
+de\monaco07\tutorialreloaded\listeners\JoinListener.class
+de\monaco07\tutorialreloaded\utils\Config.class
+de\monaco07\tutorialreloaded\commands\BackpackCommand.class
+de\monaco07\tutorialreloaded\backpack\Backpack.class
+de\monaco07\tutorialreloaded\commands\TimerCommand.class
+de\monaco07\tutorialreloaded\utils\Base64.class
+de\monaco07\tutorialreloaded\backpack\BackpackManager.class
+de\monaco07\tutorialreloaded\timer\Timer$1.class
+de\monaco07\tutorialreloaded\timer\Timer.class

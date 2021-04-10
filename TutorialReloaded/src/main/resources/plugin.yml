@@ -1,0 +1,13 @@
+name: Tutorialreloaded
+version: ${project.version}
+main: de.monaco07.tutorialreloaded.Main
+api-version: 1.16
+authors: [ monaco07 ]
+description: erstes plugin
+website: meinhub.netlify.app
+
+commands:
+  timer:
+    permission: tutorialreloaded.command.timer
+  backpack:
+    aliases: [ bp ]
